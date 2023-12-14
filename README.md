@@ -111,7 +111,7 @@
 
 <li>
 <a href="www.linkedin.com/in/swathi-s-bhat-6180a3128" target="_blank">
-<img src="https://img.shields.io/badge/linkedin%3A%20%20SwathiSBhat-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=405DE6" alt=linkedin/>
+<img src="https://img.shields.io/badge/linkedin:  SwathiSBhat-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&color=405DE6" alt=linkedin/>
 </a>
 </li>
 
