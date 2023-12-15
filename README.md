@@ -15,7 +15,7 @@
 
 <picture>
   <source media="(max-width: 767px)" srcset="">
-  <img align="right" alt="" src="./assets/mdImages/programming.svg" width=300px>
+  <img align="right" alt="" src="./assets/mdImages/female-developer.svg" width=300px>
 </picture>
 
 <br>
