@@ -41,7 +41,7 @@
     ![C++](https://img.shields.io/badge/C%2B%2B-F7DF1F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=peach)&nbsp;
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
     ![C](https://img.shields.io/badge/C-F7DF1F.svg?style=for-the-badge&logo=C&logoColor=white&color=red)&nbsp;
-    ![C#](
+    ![C#](https://img.shields.io/badge/C%23-2370ED.svg?style=for-the-badge&logo=c%23&logoColor=black&color=beige)&nbsp;
     ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E.svg?style=for-the-badge&logo=typescript)&nbsp;
   
 
@@ -57,6 +57,8 @@
     ![Libfuse](https://img.shields.io/badge/libfuse-F7DF1F.svg?style=for-the-badge&logo=libfuse&color=orange)&nbsp;
     ![T-SQL](https://img.shields.io/badge/TSQL-2370ED.svg?style=for-the-badge&logo=sql)&nbsp;
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+    ![Powerapps Component Framework](https://img.shields.io/badge/Powerapps%20Component%20Framework-2370ED.svg?style=for-the-badge&logo=powerapps&logoColor=black&color=beige)&nbsp;
+  
     
 <!--- **Front-End Development**:
 
