@@ -49,7 +49,7 @@
     ![Visual Studio](https://img.shields.io/badge/VS-F7DF1F.svg?style=for-the-badge&logo=visualstudio&logoColor=blue&color=cyan)&nbsp;
     ![Azure Data Explorer](https://img.shields.io/badge/Kusto-F7DF1F.svg?style=for-the-badge&logo=azuredataexplorer&color=brown)&nbsp;
     ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft%20Dynamics%20365-F7DF1F.svg?style=for-the-badge&logo=dynamics365&color=pink)&nbsp;
-    ![]
+    ![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F7DF1F.svg?style=for-the-badge&logo=powerbi&color=skyblue)&nbsp;
   
     
 <!--- **Front-End Development**:
