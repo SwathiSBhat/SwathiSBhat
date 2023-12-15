@@ -40,9 +40,7 @@
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
     ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E.svg?style=for-the-badge&logo=typescript)&nbsp;
-
-
-<br>   
+  
 
 - **Tools and frameworks**:
   
