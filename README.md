@@ -54,7 +54,7 @@
     ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft%20Dynamics%20365-F7DF1F.svg?style=for-the-badge&logo=dynamics365&color=pink)&nbsp;
     ![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F7DF1F.svg?style=for-the-badge&logo=powerbi&color=skyblue)&nbsp;
     ![Azure DevOps](https://img.shields.io/badge/Azure%20devOps-F7DF1F.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=red)&nbsp;
-    ![Libfuse]([https://img.shields.io/badge/Fuse-F7DF1F.svg?style=for-the-badge&logo=fuse&color=orange](https://img.shields.io/badge/libfuse-F7DF1F.svg?style=for-the-badge&logo=libfuse&color=orange)&nbsp;
+    ![Libfuse](https://img.shields.io/badge/libfuse-F7DF1F.svg?style=for-the-badge&logo=libfuse&color=orange)&nbsp;
     ![T-SQL](https://img.shields.io/badge/TSQL-2370ED.svg?style=for-the-badge&logo=sql)&nbsp;
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
     
