@@ -45,8 +45,13 @@
 <br>   
 
 - **Tools and frameworks**:
+  
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
     ![React](https://img.shields.io/badge/React-F7DF1F.svg?style=for-the-badge&logo=react&color=black)&nbsp;
+    ![Visual Studio](https://img.shields.io/badge/VS-F7DF1F.svg?style=for-the-badge&logo=visualstudio&logoColor=blue&color=cyan)&nbsp;
+    ![Azure Data Explorer](https://img.shields.io/badge/Kusto-F7DF1F.svg?style=for-the-badge&logo=azuredataexplorer&color=brown)&nbsp;
+    ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft%20Dynamics%20365-F7DF1F.svg?style=for-the-badge&logo=dynamics365&color=pink)&nbsp;
+    ![]
   
     
 <!--- **Front-End Development**:
