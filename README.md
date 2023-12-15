@@ -39,12 +39,17 @@
 - **Languages**:
 
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
-    ![JavaScript](https://img.shields.io/badge/JavaScript%20-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+    ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E.svg?style=for-the-badge&logo=typescript)&nbsp;
 
 
 <br>   
+
+- **Tools and frameworks**:
+    ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+    ![React](https://img.shields.io/badge/React-F7DF1F.svg?style=for-the-badge&logo=react&color=black)&nbsp;
+  
     
-- **Front-End Development**:
+<!--- **Front-End Development**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
@@ -67,7 +72,7 @@
     ![Visual Studio Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
     ![Archcraft](https://img.shields.io/badge/Archcraft-%23404d59?style=for-the-badge&logo=archlinux&logoColor=%#1793D1)&nbsp;
 
-<br>
+<br>-->
 
 - **Extras**:
 
