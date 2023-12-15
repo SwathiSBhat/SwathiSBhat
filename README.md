@@ -41,6 +41,7 @@
     ![C++](https://img.shields.io/badge/C%2B%2B-F7DF1F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white&color=peach)&nbsp;
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)&nbsp;
     ![C](https://img.shields.io/badge/C-F7DF1F.svg?style=for-the-badge&logo=C&logoColor=white&color=red)&nbsp;
+    ![C#](
     ![TypeScript](https://img.shields.io/badge/TypeScript-F7DF1E.svg?style=for-the-badge&logo=typescript)&nbsp;
   
 
@@ -53,7 +54,7 @@
     ![Microsoft Dynamics 365](https://img.shields.io/badge/Microsoft%20Dynamics%20365-F7DF1F.svg?style=for-the-badge&logo=dynamics365&color=pink)&nbsp;
     ![Microsoft Power BI](https://img.shields.io/badge/Power%20BI-F7DF1F.svg?style=for-the-badge&logo=powerbi&color=skyblue)&nbsp;
     ![Azure DevOps](https://img.shields.io/badge/Azure%20devOps-F7DF1F.svg?style=for-the-badge&logo=azuredevops&logoColor=white&color=red)&nbsp;
-    ![FUSE](https://img.shields.io/badge/Fuse-F7DF1F.svg?style=for-the-badge&logo=fuse&color=orange)&nbsp;
+    ![Libfuse]([https://img.shields.io/badge/Fuse-F7DF1F.svg?style=for-the-badge&logo=fuse&color=orange](https://img.shields.io/badge/libfuse-F7DF1F.svg?style=for-the-badge&logo=libfuse&color=orange)&nbsp;
     
 <!--- **Front-End Development**:
 
