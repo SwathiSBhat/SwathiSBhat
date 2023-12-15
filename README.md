@@ -24,7 +24,6 @@
 - I'm a master's student majoring in Computer Science and specializing in computer systems and security at the University of California, Santa Barbara
 - Previously, I worked as a software engineer at Microsoft developing applications in Dynamics 365.
 - I love working on challenging problems in computer science especially those related to operating systems, distributed systems and systems security. 
-- Feel free to reach out to me at my mail <a href="mailto:swathibhat282@gmail.com">swathibhat282@gmail.com</a>
 - I'm currently on the lookout for internship opportunities for Summer 2024. <a href="https://www.linkedin.com/in/swathi-s-bhat-6180a3128">Here</a> is my LinkedIn profile and <a href="https://swathisbhat.github.io">personal website</a>.
 
 <br>
