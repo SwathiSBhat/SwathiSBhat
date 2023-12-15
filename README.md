@@ -21,11 +21,11 @@
 <br>
 
 
-- Hello, and welcome to my GitHub profile! My name is Swathi Bhat
-
-- I am always open to new ideas and opportunities to collaborate with other passionate developers. If you're interested in discussing potential projects or just want to say hello, feel free to reach out to me at <a href="mailto:swathibhat282@gmail.com">swathibhat282@gmail.com</a>
-
-- Thank you for visiting my profile, and I look forward to connecting with you!
+- I'm a master's student majoring in Computer Science and specializing in computer systems and security at the University of California, Santa Barbara
+- Previously, I worked as a software engineer at Microsoft developing features for applications in Dynamics 365.
+- I love working on challenging problems in computer science especially those related to operating systems, distributed systems and systems security. 
+- Feel free to reach out to me at my mail <a href="mailto:swathibhat282@gmail.com">swathibhat282@gmail.com</a>
+- 
 
 <br>
 
