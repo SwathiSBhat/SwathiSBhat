@@ -22,7 +22,7 @@
 
 
 - I'm a master's student majoring in Computer Science and specializing in computer systems and security at the University of California, Santa Barbara.
-- Currently, I'm an intern at Arista networks working on Arista's next generation Multi-Domain Segmentation (MSS) for Zero Trust Networking.
+- I was an intern at Arista networks during the summer of 2024 working on Arista's next generation Multi-Domain Segmentation (MSS) for Zero Trust Networking.
 - Previously, I worked as a software engineer at Microsoft developing applications in Dynamics 365.
 - I love working on challenging problems in computer science especially those related to operating systems, distributed systems and systems security. 
 - Reach out to me on LinkedIn <a href="https://www.linkedin.com/in/swathi-s-bhat-6180a3128">here</a>. Link to <a href="https://swathisbhat.github.io">personal website</a>.
